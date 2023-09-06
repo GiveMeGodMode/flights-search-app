@@ -13,7 +13,7 @@ Mock file with a list of flights, layout with filter and sorting blocks.
 
 ### 📗3. Links and demo
 
-Repo: https://github.com/GiveMeGodMode/flights-search-app
+Repo: https://github.com/GiveMeGodMode/flights-search-app/
 Site: https://givemegodmode-flights-search.vercel.app/
 
 ### 📗4. How to run and build
