@@ -1,6 +1,6 @@
 ## flights-search-app
 
-## Test app for Gridnine systems
+## Test app
 
 ### 📗1. Task
 
